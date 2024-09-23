@@ -1,0 +1,38 @@
+{
+    "formName": "Sample Form",
+    "pages": [
+      {
+        "id": "1634234567890",
+        "elements": [
+          {
+            "id": "1634234567890-email",
+            "type": "email",
+            "columns": 1,
+            "properties": {
+              "label": "Email",
+              "placeholder": "Enter your email"
+            }
+          },
+          {
+            "id": "1634234567890-password",
+            "type": "password",
+            "columns": 1,
+            "properties": {
+              "label": "Password",
+              "placeholder": "Enter your password"
+            }
+          },
+          {
+            "id": "1634234567890",
+            "type": "question",
+            "columns": 1,
+            "properties": {
+              "questionText": "Your question here"
+            }
+          }
+        ]
+      }
+    ],
+    "currentPageId": "1634234567890"
+  }
+  
